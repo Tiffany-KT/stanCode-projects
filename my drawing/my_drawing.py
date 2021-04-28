@@ -1,6 +1,6 @@
 """
 File: Tiffany's drawing
-Name: Kai-Ting, Tsao
+Name: Tiffany
 ----------------------
 I enjoy playing Disney Tsum Tsum game in my free time,
 and so I choose to draw the characters from this game.
